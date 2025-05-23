@@ -1,5 +1,5 @@
 <!--Banner-->
-![Kiran1689 Banner Image](./sd_upscaled.png)
+![Kiran1689 Banner Image](./quality_restoration_20250523184707867.jpg)
 
 <!--Night Owl image-->
 <div>
