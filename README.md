@@ -1,5 +1,5 @@
 <!--Banner-->
-![Kiran1689 Banner Image](./hehe.png)
+![Kiran1689 Banner Image](./sd_upscaled.png)
 
 <!--Night Owl image-->
 <div>
