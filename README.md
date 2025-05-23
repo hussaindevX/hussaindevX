@@ -1,5 +1,5 @@
 <!--Banner-->
-![Kiran1689 Banner Image](./github-header-image.png)
+![Kiran1689 Banner Image](./Nature Landscape Photo Travel Channel Youtube Banner.png)
 
 <!--Night Owl image-->
 <div>
