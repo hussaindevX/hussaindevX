@@ -124,11 +124,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mother%20Teresa&quote=If%20you%20can't%20feed%20a%20hundred%20people%2C%20then%20feed%20just%20one.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lolly%20Daskal&quote=Do%20not%20allow%20your%20inner%20doubts%20to%20keep%20you%20from%20achieving%20what%20you%20can%20do.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
