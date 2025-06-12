@@ -125,11 +125,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lolly%20Daskal&quote=Do%20not%20allow%20your%20inner%20doubts%20to%20keep%20you%20from%20achieving%20what%20you%20can%20do.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=Leaders%20spend%205%25%20of%20their%20time%20on%20the%20problem%20%26%2095%25%20of%20their%20time%20on%20the%20solution.%20Get%20over%20it%20%26%20crush%20it!&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
